@@ -1,0 +1,18 @@
+h2{
+    color: aliceblue;
+    padding-bottom: 10px;
+}
+
+.ColorDetail-return-btn{
+    color: whitesmoke;
+    font-size: x-large;
+}
+
+.ColorDetail-return-btn:hover{
+    cursor: pointer;
+    color: rgb(243, 241, 241);
+}
+
+.ColorDetail-return-btn:active{
+    color: rgb(255, 255, 255);
+}

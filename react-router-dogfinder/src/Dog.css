@@ -1,0 +1,14 @@
+
+.Dog-div{
+    border: 1px solid grey;
+}
+
+
+.Dog-fact{
+    list-style: none;
+}
+
+.Dog-img{
+    border-radius: 50px;
+    height: 300px;
+}
